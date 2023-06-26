@@ -147,3 +147,57 @@ Tag Body
 - Di dalam tag html, terdapat tag body
 - Di dalam tag body, kita bisa memasukkan tag apapun termasuk tulisan, yang nanti secara otomatis akan ditampilkan di halaman web oleh aplikasi Web Browser
 
+Membuat Halaman Hello World
+- Untuk membuat halaman HTML yang sudah kita buat, kita bisa langsung membukanya
+menggunakan aplikasi Web Browser Google Chrome
+
+Menjalankan di Komputer
+- Sebelumnya kita sudah coba membuka file HTML yang sudah kita buat menggunakan Web Browser
+- Namun cara seperti itu bukanlah hal yang baik, karena nanti akan ada beberapa fitur di HTML yang
+tidak berfungsi, oleh karena it, disarankan untuk menjalankan Web yang kita buat menggunakan
+aplikasi Web Server
+
+Live Server
+- Aplikasi Web Server ada banyak sekali, namun kita akan menggunakan yang paling mudah yaitu
+sebuah extension di Visual Studio Code
+- Kita bisa install extension bernama Live Server, yang bisa digunakan untuk menjalankan Web
+Server dari Visual Studio Code secara mudah
+
+Persiapan
+- Buka Niagahoster: https://www.niagahoster.co.id/
+- Membeli Paket Unlimited Hosting
+- Membeli Domain Gratis
+- Gunakan kode voucher PZN untuk mendapatkan diskon tambahan untuk member baru
+
+Penamaan File HTML
+- Sebenarnya tidak ada aturan dalam pembuatan nama file untuk HTML
+- Kita bisa menggunakan nama file apapun, dan huruf besar dan kecil apapun
+- Namun karena file HTML akan diakses sebagai URL pada web browser, misal: www.programmerzamannow.com/namafile.html
+- Maka sangat disarankan mengikuti praktek yang baik penamaan URL
+
+Praktek Baik Penamaan File HTML
+- Jangan menggunakan huruf besar, selalu gunakan huruf kecil semua, misal :
+index.html, home.html, belajar.html, eko.html, dan lain-lain
+- Jangan menggunakan spasi pada nama file, jika butuh pemisah, gunakan - atau _, misal :
+belajar-html.html, halaman-login.html, belajar_html.html
+- Jika butuh membuat folder di, gunakan aturan yang sama
+
+Heading
+- Saat kita membuat dokumen atau buku, biasanya terdapat Heading
+- Heading adalah kata-kata yang mendeskripsikan is dari tulisan yang kita buat.
+- Seperti judul, tapi untuk bagian tulisan nya
+- Contoh ketika kita melihat buku, Heading sering digunakan untuk tulisan Bab
+- Di HTML, kita bisa membuat Heading dengan tag h
+
+Tingkatan Heading
+- Heading memiliki tingkatan, paling tinggi adalah tingkatan 1, selanjutnya tingkatan 2, 3, dan
+seterusnya
+- Yang membedakan biasanya ukuran huruf nya akan semakin kecil
+- Di HTML, kita bisa menggunakan tag h1, h2, h3 dan seterusnya untuk menentukan tingkatan
+Heading
+- HTML mendukung sampai heading tingkatan ke 6
+
+Paragraph
+- Saat membuat tulisan, biasanya selain Heading (judul), kita juga biasanya membuat paragraf
+- Di HTML, kita bisa menggunakan tag p untuk membuat paragraf
+- Paragraf selalu mulai dengan baris baru
